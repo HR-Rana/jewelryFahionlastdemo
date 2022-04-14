@@ -1,0 +1,69 @@
+
+html{
+    scroll-padding-top: 100px;
+}
+
+
+.contact-area{
+    padding-top: 50px;
+    padding-bottom: 50px;
+    background-color: rgb(247, 247, 247);
+}
+.contact-area form{
+    width: 50%;
+}
+.contact-area .fill{}
+.contact-area .fill input{
+    margin: 15px 0;
+}
+.contact-area .fill textarea{
+    height: 150px;
+}.contact-area .submit{
+    width: 35%;
+    margin-top: 15px;
+    font-weight: 600;
+    font-size: 20px;
+    padding: 4px 0;
+    background-color: #d1b785;
+    border-radius: 25px;
+    -webkit-border-radius: 25px;
+    -moz-border-radius: 25px;
+    -ms-border-radius: 25px;
+    -o-border-radius: 25px;
+}
+
+
+
+
+.location-area{
+    padding-top: 130px;
+   padding-bottom: 25px;
+}
+.location-area .flex-box{
+    justify-content: space-between;
+}
+
+.location-area .map{
+    width: 60%;
+   
+}
+
+.location-area .right{
+    width: 40%;
+}
+.location-area .address-area{
+    width: 90%;
+    float: right;
+    overflow: hidden;
+}
+
+.location-area .right h4{
+    margin: 25px 0;
+    font-weight: 600;
+}
+.location-area .right i{
+    margin-right: 25px;
+    margin-top: 5px;
+    font-size: 25px;
+    color: #d1b785;
+}
